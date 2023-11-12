@@ -79,7 +79,7 @@ function createPatch(stim) {
    var stim = {
      duration: 300, // in ms
      amp: 15,
-     frequency: 1000, 
+     frequency: 1000, // 500 Hz lower than regular app
    };
 
    return stim;
